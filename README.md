@@ -1,4 +1,4 @@
-### 👋 Hello! I'm [Your Name]
+### 👋 Hello! I'm Win Armendal
 
 <p>
   I'm a Web Developer passionate about building scalable web applications and intuitive user experiences.
@@ -45,9 +45,9 @@ These are the technologies and tools I'm proficient in and use regularly:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=winarmendal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats" width="400"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dracula" alt="Your Top Languages" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winarmendal&layout=compact&theme=dracula" alt="Your Top Languages" width="320"/>
 </p>
 
 ---
