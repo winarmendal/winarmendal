@@ -68,10 +68,6 @@ This is a dashboard of my activity, languages I use, and coding time (via Wakati
 
 ---
 
-### 📰 My Recent Blog Posts
-
----
-
 ### 🤝 Let's Connect
 
 I'm always open to connecting and discussing new opportunities. Find me on:
@@ -85,8 +81,5 @@ I'm always open to connecting and discussing new opportunities. Find me on:
   </a>
   <a href="mailto:winarmendal27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="httpsm://www.buymeacoffee.com/[YOUR_BUYMEACOFFEE_ID]" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
