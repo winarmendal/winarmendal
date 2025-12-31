@@ -1,25 +1,32 @@
-### 👋 Hello! I'm Win Armendal
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Happy+New+Year+2026!+🎉;Building+the+Future+with+Code;Hello,+I'm+Win+Armendal" alt="Typing SVG" />
+</p>
 
-A **Full-Stack Web Developer** specializing in building scalable, high-performance web applications and intuitive user experiences. Welcome to my digital workspace!
+<h2 align="center">✨ Entering 2026: Fuller Stack, Bigger Goals ✨</h2>
 
----
-
-### 🚀 About Me
-
-* 🔭 I’m currently bringing ideas to life as a **Freelance Web Developer**.
-* 🌱 I'm diving deep into the decentralized web by learning **web3.js**.
-* 👯 I’m open to collaborating on challenging **open-source projects** or innovative web applications.
-* 💬 Feel free to ask me about: **JavaScript, TypeScript, React, Nest.js, Docker,** and system design.
-* ⚡ Fun fact: When I'm not coding, I'm usually exploring the world of **Fragrances** or brewing the perfect cup of **Coffee**.
+<p align="center">
+  A <b>Full-Stack Web Developer</b> focusing on scalability, performance, and modern architecture.
+  <br>
+  <i>"New year, cleaner code, better systems."</i>
+</p>
 
 ---
 
-### 💻 My Digital Toolbox
+### 🚀 2026 Mission Control
 
-I work with a modern tech stack. Click below to see what's in my toolkit.
+* 🔭 **Current Focus:** Elevating freelance projects with enterprise-grade architecture.
+* 🌱 **Learning Goal:** Mastering **Web3.js** & Decentralized Apps (DApps) for the future web.
+* 🎯 **2026 Resolution:** Contribute more to **Open Source** and ship 3 major SaaS products.
+* 💬 **Ask Me About:** JavaScript, TypeScript, React, Nest.js, Docker, and System Design.
+* ⚡ **Offline Mode:** Hunting for the best **Fragrances** 🧴 or brewing artisanal **Coffee** ☕.
+
+---
+
+### 🛠️ My 2026 Arsenal
 
 <details>
-  <summary><strong>Frontend</strong></summary>
+  <summary><strong>🎨 Frontend Ecosystem</strong></summary>
+  <br>
   <p align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -30,7 +37,8 @@ I work with a modern tech stack. Click below to see what's in my toolkit.
 </details>
 
 <details>
-  <summary><strong>Backend</strong></summary>
+  <summary><strong>⚙️ Backend & Architecture</strong></summary>
+  <br>
   <p align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -38,7 +46,8 @@ I work with a modern tech stack. Click below to see what's in my toolkit.
 </details>
 
 <details>
-  <summary><strong>Database, DevOps & Tools</strong></summary>
+  <summary><strong>🗄️ Database, DevOps & Tools</strong></summary>
+  <br>
   <p align="left">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
@@ -49,17 +58,19 @@ I work with a modern tech stack. Click below to see what's in my toolkit.
 
 ---
 
-### 📊 My GitHub Activity & Stats
-
-This is a dashboard of my activity, languages I use, and coding time (via Wakatime).
+### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winarmendal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Win Armendal's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winarmendal&layout=compact&theme=dracula" alt="Win Armendal's Top Languages" width="320"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=winarmendal&theme=dracula&layout=compact" alt="Statistik Wakatime" width="730"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=winarmendal&theme=dracula" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=winarmendal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Win Armendal's GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winarmendal&layout=compact&theme=radical" alt="Win Armendal's Top Languages" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=winarmendal&theme=radical&layout=compact" alt="Statistik Wakatime" width="92%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=winarmendal&theme=radical" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
@@ -68,16 +79,16 @@ This is a dashboard of my activity, languages I use, and coding time (via Wakati
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect in 2026
 
-I'm always open to connecting and discussing new opportunities. Find me on:
+Ready to build something amazing this year?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ramadhani-win-armendal-624215222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://winarmendal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:winarmendal27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
