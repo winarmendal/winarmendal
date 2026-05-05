@@ -1,56 +1,101 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=WIN+ARMENDAL;SOFTWARE+ENGINEER;EST.+2026" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Win Armendal - Software Engineer / Systems Builder" width="100%" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://winarmendal.com">
+    <img src="https://img.shields.io/badge/portfolio-winarmendal.com-E7E2D2?style=flat-square&labelColor=0B0D10&color=E7E2D2" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ramadhani-win-armendal-624215222/">
+    <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&labelColor=0B0D10&color=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/winarmendal">
+    <img src="https://img.shields.io/badge/github-winarmendal-A8FF5C?style=flat-square&labelColor=0B0D10&color=A8FF5C" alt="GitHub" />
+  </a>
+</p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<br />
+
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 The 2026 Mission</h3>
-      <blockquote>
-        Moving beyond code. Architecting <b>systems</b>.<br>
-        Building <b>Sundie Software</b>.
-      </blockquote>
-      <br/>
-      <h3>🛠️ The Arsenal</h3>
+    <td width="62%" valign="top">
+      <h3>SYSTEM OBJECTIVE</h3>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        I build product-grade software with a bias toward clean systems, practical architecture, and shipping.
       </p>
+      <pre>2026: stop collecting stacks.
+      start compounding systems.</pre>
+      <p>
+        Currently building <b>Sundie Software</b>, a small software lab focused on useful products, reliable tooling, and long-term technical leverage.
+      </p>
+      <h3>CURRENT MODE</h3>
+      <ul>
+        <li>Designing full-stack product flows</li>
+        <li>Building backend systems with TypeScript</li>
+        <li>Turning rough ideas into shippable software</li>
+        <li>Keeping complexity on a short leash</li>
+      </ul>
     </td>
-    <td width="40%" valign="top">
-      <h3 align="center">🤝 Connect</h3>
-      <p align="center">
-        <a href="https://linkedin.com/in/ramadhani-win-armendal-624215222/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-        </a>
-        <br/>
-        <a href="https://winarmendal.com" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=About.me&logoColor=white" height="25" />
-        </a>
+    <td width="38%" valign="top">
+      <h3>SIGNAL</h3>
+      <pre>role      software engineer
+focus     systems + products
+stack     typescript first
+lab       sundie software
+base      indonesia</pre>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=winarmendal&show_icons=true&theme=transparent&hide_border=true&hide=stars,contribs&title_color=E7E2D2&text_color=C9C3B5&icon_color=A8FF5C" width="100%" alt="Win Armendal GitHub stats" />
       </p>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=winarmendal&show_icons=true&theme=dark&hide_border=true&hide=stars,contribs&count_private=true" width="100%" alt="Win Stats" />
     </td>
   </tr>
 </table>
 
-<br/>
+<br />
 
-<h3 align="center">🔥 Coding Streak</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winarmendal&theme=dark&hide_border=true&background=0D1117" width="80%" alt="Win Streak" />
-</div>
+### WORKING SET
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <p><b>Frontend</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0B0D10?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-0B0D10?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-0B0D10?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <p><b>Backend</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-0B0D10?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+        <img src="https://img.shields.io/badge/Node.js-0B0D10?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0B0D10?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <p><b>Infra</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-0B0D10?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/Redis-0B0D10?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+        <img src="https://img.shields.io/badge/Linux-0B0D10?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### OPERATING PRINCIPLES
+
+```txt
+useful > clever
+simple > scalable too early
+shipping > polishing forever
+systems > isolated snippets
+```
+
+<br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=winarmendal&theme=dark&hide_border=true&background=0B0D10&ring=A8FF5C&fire=A8FF5C&currStreakLabel=E7E2D2&sideLabels=E7E2D2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9C3B5" width="72%" alt="Win Armendal coding streak" />
 </p>

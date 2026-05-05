@@ -1,0 +1,27 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Win Armendal - Systems Builder</title>
+  <desc id="desc">A terminal-inspired banner for Win Armendal's GitHub profile.</desc>
+  <rect width="1200" height="360" fill="#0B0D10"/>
+  <path d="M0 0H1200V360H0V0Z" fill="url(#grain)" opacity="0.22"/>
+  <path d="M72 68H1128V292H72V68Z" stroke="#E7E2D2" stroke-width="2"/>
+  <path d="M96 94H1104" stroke="#E7E2D2" stroke-width="1" stroke-dasharray="8 12" opacity="0.45"/>
+  <path d="M96 266H1104" stroke="#E7E2D2" stroke-width="1" stroke-dasharray="8 12" opacity="0.45"/>
+  <rect x="96" y="114" width="178" height="34" fill="#E7E2D2"/>
+  <text x="114" y="137" fill="#0B0D10" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="2">PROFILE_2026</text>
+  <text x="96" y="203" fill="#F4F0E5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="72" font-weight="800" letter-spacing="5">WIN ARMENDAL</text>
+  <text x="99" y="239" fill="#A8FF5C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22" font-weight="700" letter-spacing="4">SOFTWARE ENGINEER / SYSTEMS BUILDER</text>
+  <text x="797" y="138" fill="#E7E2D2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" font-weight="600" letter-spacing="2">STATUS: SHIPPING</text>
+  <text x="797" y="170" fill="#E7E2D2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" font-weight="600" letter-spacing="2">FOCUS: PRODUCTS</text>
+  <text x="797" y="202" fill="#E7E2D2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" font-weight="600" letter-spacing="2">BASE: INDONESIA</text>
+  <text x="797" y="234" fill="#E7E2D2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" font-weight="600" letter-spacing="2">LAB: SUNDIE SOFTWARE</text>
+  <path d="M760 116V242" stroke="#E7E2D2" stroke-width="2"/>
+  <path d="M96 296L96 316H116" stroke="#A8FF5C" stroke-width="2"/>
+  <path d="M1104 296L1104 316H1084" stroke="#A8FF5C" stroke-width="2"/>
+  <defs>
+    <pattern id="grain" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M0 31H32M31 0V32" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <circle cx="7" cy="9" r="1" fill="#FFFFFF" fill-opacity="0.28"/>
+      <circle cx="23" cy="19" r="1" fill="#FFFFFF" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+</svg>
