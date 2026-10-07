@@ -1,6 +1,8 @@
 ### Hi, I'm Win
 
-Product engineer from Indonesia. I co-founded [KONSINUS](https://konsinus.com), a digital, tax and finance partner for small businesses. Most of what isn't tax or finance lands on my desk: product, engineering, design direction, and a good share of sales and marketing.
+Product engineer from Indonesia. I co-founded [KONSINUS](https://konsinus.com), a digital, tax and finance partner for small businesses.
+
+My partner runs the tax and finance side. I take most of the rest. I decide what we build and then build it. I also handle how our products look, write a lot of our marketing, and make the pitch decks and demos we use to sell.
 
 What I build there:
 
